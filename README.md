@@ -1,0 +1,3 @@
+This is supposed to make using Wootility with wooting keyboards a whole lot easier given the fact theres no regular software so i have decided to make a software that uses webview2 to make kind of a standalone client for the Wootility Web Driver!
+
+https://www.mediafire.com/file/qjg6e4744z97nqz/Wootility.zip/file
